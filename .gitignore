@@ -1,0 +1,43 @@
+# Visual Studio files
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ASP.NET files
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.db
+*.sql
+*.mdf
+*.ldf
+
+# Configuration files
+appsettings.json
+appsettings.*.json
+
+# Package files
+*.nupkg
+*.snupkg
+*.tgz
+
+# Logs
+*.log
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# IDE specific files
+.idea/
+*.sln.ide
+*.sln.ide.*
